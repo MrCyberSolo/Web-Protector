@@ -77,6 +77,11 @@ Web Protector is a strong Web Application Firewall intended to safeguard all PHP
 
 _and many more…_
 
+## Videos 
+
+[Review]()
+[Install Guide]()
+
 ## Requirements
 
 -   PHP

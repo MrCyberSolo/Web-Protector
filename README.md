@@ -1,6 +1,12 @@
 # Web-Protector
 
-**Web Protector**  is a powerful website security app that will protect your website from hackers, attacks and other threats. It will protect your website from SQLi Attacks (SQL Injections), XSS Vulnerabilities, Proxy Visitors, VPN Visitors, TOR Visitors, Spam and many other types of threats.
+**Web Protector**  is a powerful website security app that will protect your website from hackers, attacks and other threats. It will protect your website from 
+- SQLi Attacks (SQL Injections)
+- XSS Vulnerabilities
+-  Proxy Visitors
+-  VPN Visitors
+-  TOR Visitors
+-  Spam and many other types of threats.
 
 Web Protector uses an intelligent algorithms (similar to the ones used by major industry companies) to detect all known hacker attacks as well as new unknown threats using code recognition and patterns, and automatically takes action.
 

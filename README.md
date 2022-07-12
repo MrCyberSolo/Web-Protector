@@ -1,6 +1,6 @@
 # Web-Protector
 
-**Web Protector**  is a powerful website security app that will protect your website from hackers, attacks and other threats. It will protect your website from 
+**Web Protector**  is a strong site security application that will shield your site from programmers, assaults and different dangers. It will shield your site from 
 - SQLi Attacks (SQL Injections)
 - XSS Vulnerabilities
 -  Proxy Visitors
@@ -8,11 +8,11 @@
 -  TOR Visitors
 -  Spam and many other types of threats.
 
-Web Protector uses an intelligent algorithms (similar to the ones used by major industry companies) to detect all known hacker attacks as well as new unknown threats using code recognition and patterns, and automatically takes action.
+Web Protector utilizes a clever calculations (like the ones utilized by significant industry organizations) to identify all referred to programmer assaults as well as new obscure dangers utilizing code acknowledgment and examples, and naturally makes a move.
 
-It comes with powerful admin panel from which you can view all logs and it is also integrated with Ban System from which can be banned Visitors (IP Addresses), Countries, IP Ranges, Internet Service Providers (ISP), Browsers, Operating Systems (OS) and Referrers. The Admin Panel has many features and settings. Through it can be easily managed the security of your website.
+It accompanies strong administrator board from which you can see all logs and it is likewise coordinated with Ban System from which can be restricted Visitors (IP Addresses), Countries, IP Ranges, Internet Service Providers (ISP), Browsers, Operating Systems (OS) and Referrers. The Admin Panel has many highlights and settings. Through it very well may be effectively dealt with the security of your site.
 
-Web Protector is a powerful Web Application Firewall designed to protect all PHP softwares, from custom scripts to popular shopping cart softwares and CMS applications. It allows any website administrator to benefit from very advanced and powerful security features. It is very fast, optimized and requires very low system resources.
+Web Protector is a strong Web Application Firewall intended to safeguard all PHP virtual products, from custom contents to famous shopping basket programming projects and CMS applications. It permits any site chairman to profit from extremely progressed and strong security highlights. It is exceptionally quick, enhanced and requires extremely low framework assets.
 
 ## Main Features
 
